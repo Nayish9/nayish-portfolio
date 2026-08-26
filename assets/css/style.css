@@ -73,11 +73,6 @@ ol {
     background: radial-gradient(51% 51% at 49% 48%,rgba(253,253,253,.05) 0%,rgba(253,253,253,0) 100%);
     
 }
-.client-logo img {
-    width: 120px;
-    height: 120px;
-    object-fit: contain;
-}
 .subtitle {
     overflow: hidden;
     font-size: 13px;
